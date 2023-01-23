@@ -35,6 +35,7 @@ body {
    height: 227px;
        border-radius:5%;
        object-fit: cover;
+       object-position: middle bottom;
  
  }
  
